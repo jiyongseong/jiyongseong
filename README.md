@@ -4,9 +4,7 @@ Working as a Senior Cloud Solution Architect in [Microsoft](https://github.com/m
 was a/an 
 - Senior Technical Evangelist
 - Senior Premier Field Engineer
-    - Azure
-    - SQL Server
-    - Windows Server
+    - Azure / SQL Server / Windows Server
 - Microsoft Consulting Service - Delivery consultant
 - Independent Developer
 
