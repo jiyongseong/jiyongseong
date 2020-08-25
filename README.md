@@ -1,10 +1,21 @@
 # Ji Yong Seong :man:
-Working as a Cloud Solution Architect in [Microsoft](https://github.com/microsoft) :kr: 
+Working as a Senior Cloud Solution Architect in [Microsoft](https://github.com/microsoft) :kr: 
+
+was a/an 
+- Senior Technical Evangelist
+- Senior Premier Field Engineer
+    - Azure
+    - SQL Server
+    - Windows Server
+- Microsoft Consulting Service - Delivery consultant
+- Independent Developer
 
 ## about me :point_down:
 [![Linkedin Badge](https://img.shields.io/badge/jyseong-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ji-yong-seong-628a2952/)
 
 [![Facebook Badge](https://img.shields.io/badge/jyseong-follow%20on%20Facebook-blue?style=for-the-badge&logo=Facebook)](https://www.facebook.com/mssqlorg/)
+
+
 
 ## play with :hammer:
 ![Ji Yong's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jiyongseong&show_icons=true)
