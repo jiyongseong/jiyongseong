@@ -32,7 +32,7 @@ was a/an
 
 ## Microsoft Certified, Exams
 
-### Microsoft Certified - Expert, Associated
+### Microsoft Certified - Expert, Associate
 <img src="./badges/microsoft-certified-devops-engineer-expert.png" height="150"> <img src="./badges/microsoft-certified-azure-solutions-architect-expert.png" height="150"> <img src="./badges/microsoft-certified-azure-developer-associate.png" height="150"> <img src="./badges/mcsa-cloud-platform-certified-2016.png" height="150">
 
 ### Microsoft Certified - Trainer
