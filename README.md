@@ -30,5 +30,23 @@ was a/an
 - emoji reference : https://api.github.com/emojis, https://github.com/jiyongseong/github-emoji
 - Azure architecture icons : https://docs.microsoft.com/en-us/azure/architecture/icons/
 
+## Microsoft Certified, Exams
+
+### Microsoft Certified - Expert, Associated
+<img src="./badges/microsoft-certified-devops-engineer-expert.png" height="150">
+<img src="./badges/microsoft-certified-azure-solutions-architect-expert.png" height="150">
+<img src="./badges/microsoft-certified-azure-developer-associate.png" height="150">
+
+### Microsoft Certified - Trainer
+<img src="./badges/microsoft-certified-trainer-2021-2022.png" height="150">
+<img src="./badges/microsoft-certified-trainer-2020-2021.png" height="150">
+<img src="./badges/microsoft-certified-trainer-2019-2020.png" height="150">
+
+### Microsoft Cetification Exams
+<img src="./badges/az-400-designing-and-implementing-microsoft-devops-solutions.png" height="150">
+<img src="./badges/az-300-microsoft-azure-architect-technologies.png" height="150">
+<img src="./badges/az-301-microsoft-azure-architect-design.png" height="150">
+
+
 ## Personal project
 [Daily Newsletter :newspaper: (Azure/Data/Development)](http://aznews.azurewebsites.net/)
