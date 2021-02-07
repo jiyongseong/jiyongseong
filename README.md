@@ -11,7 +11,7 @@ was a/an
 ## about me :point_down:
 [![Linkedin Badge](https://img.shields.io/badge/jyseong-linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ji-yong-seong-628a2952/)
 
-[![Facebook Badge](https://img.shields.io/badge/jyseong-Facebook-blue?style=for-the-badge&logo=Facebook)](https://www.facebook.com/mssqlorg/)
+[![Facebook Badge](https://img.shields.io/badge/jyseong-Facebook-blue?style=for-the-badge&logo=Facebook)](https://www.facebook.com/jiyongseongmsft/)
 
 ## play with :hammer:
 ![Ji Yong's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jiyongseong&show_icons=true)
