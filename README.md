@@ -1,5 +1,7 @@
 # Ji Yong Seong :man:
-Working as a Senior Cloud Solution Architect at [Microsoft](https://github.com/microsoft) :kr: 
+Working as a Senior Cloud Solution Architect (Apps & Dev) at [Microsoft](https://github.com/microsoft) :kr: 
+- Apps & Infra
+- Data
 
 was a/an 
 - Senior Technical Evangelist
