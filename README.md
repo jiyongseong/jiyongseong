@@ -41,7 +41,7 @@ was a/an
 <img src="./badges/microsoft-certified-trainer-2021-2022.png" height="150"> <img src="./badges/microsoft-certified-trainer-2020-2021.png" height="150"> <img src="./badges/microsoft-certified-trainer-2019-2020.png" height="150">
 
 ### Microsoft Cetification Exams
-<img src="./badges/az-400-designing-and-implementing-microsoft-devops-solutions.png" height="150"> <img src="./badges/az-300-microsoft-azure-architect-technologies.png" height="150"> <img src="./badges/az-301-microsoft-azure-architect-design.png" height="150"> <img src="./badges/exam-533-implementing-microsoft-azure-infrastructure-solutions.png" height="150"> <img src="./badges/exam-532-developing-microsoft-azure-solutions.png" height="150">
+<img src="./badges/dp-200-implementing-an-azure-data-solution.1.png" height="150"> <img src="./badges/az-400-designing-and-implementing-microsoft-devops-solutions.png" height="150"> <img src="./badges/az-300-microsoft-azure-architect-technologies.png" height="150"> <img src="./badges/az-301-microsoft-azure-architect-design.png" height="150"> <img src="./badges/exam-533-implementing-microsoft-azure-infrastructure-solutions.png" height="150"> <img src="./badges/exam-532-developing-microsoft-azure-solutions.png" height="150"> 
 
 ## Personal project
 [Daily Newsletter :newspaper: (Azure/Data/Development)](http://aznews.azurewebsites.net/)
