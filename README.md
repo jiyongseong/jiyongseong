@@ -37,10 +37,14 @@ was a/an
 ## Microsoft Certified, Exams
 
 ### Microsoft Certified - Expert, Associate
+[<img src="./badges/azure-ai-fundamentals-600x600.png" height="150">](https://docs.microsoft.com/en-us/learn/certifications/azure-ai-fundamentals/) 
 [<img src="./badges/microsoft-certified-devops-engineer-expert.png" height="150">](https://docs.microsoft.com/en-us/learn/certifications/devops-engineer/) [<img src="./badges/microsoft-certified-azure-solutions-architect-expert.png" height="150">](https://docs.microsoft.com/en-us/learn/certifications/azure-solutions-architect) [<img src="./badges/microsoft-certified-azure-developer-associate.png" height="150">](https://docs.microsoft.com/en-us/learn/certifications/azure-developer/) <img src="./badges/mcsa-cloud-platform-certified-2016.png" height="150">
 
 ### Microsoft Certified - Trainer
 [<img src="./badges/microsoft-certified-trainer-2021-2022.png" height="150">](https://docs.microsoft.com/en-us/learn/certifications/mct-certification) [<img src="./badges/microsoft-certified-trainer-2020-2021.png" height="150">](https://docs.microsoft.com/en-us/learn/certifications/mct-certification) [<img src="./badges/microsoft-certified-trainer-2019-2020.png" height="150">](https://docs.microsoft.com/en-us/learn/certifications/mct-certification)
+
+
+
 
 ### Microsoft Cetification Exams
 [<img src="./badges/dp-200-implementing-an-azure-data-solution.1.png" height="150">](https://docs.microsoft.com/en-us/learn/certifications/exams/dp-200) [<img src="./badges/az-400-designing-and-implementing-microsoft-devops-solutions.png" height="150">](https://docs.microsoft.com/en-us/learn/certifications/exams/az-400) [<img src="./badges/az-300-microsoft-azure-architect-technologies.png" height="150">](https://docs.microsoft.com/en-us/learn/certifications/exams/az-300) [<img src="./badges/az-301-microsoft-azure-architect-design.png" height="150">](https://docs.microsoft.com/en-us/learn/certifications/exams/az-301) <img src="./badges/exam-533-implementing-microsoft-azure-infrastructure-solutions.png" height="150"> <img src="./badges/exam-532-developing-microsoft-azure-solutions.png" height="150"> 
