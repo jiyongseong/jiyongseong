@@ -39,7 +39,7 @@ was a/an
 ## Microsoft Certified, Exams
 
 ### Microsoft Certified - Expert, Associate
-[<img src="./badges/CERT-Associate-Data-Analyst-600x600.png" height="150">](https://docs.microsoft.com/en-us/learn/certifications/data-analyst-associate/) [<img src="./badges/microsoft-certified-azure-ai-engineer-associate.png" height="150">](https://docs.microsoft.com/en-us/learn/certifications/azure-ai-engineer/) 
+[<img src="./badges/azure-database-administrator-associate-600x600.png" height="150">](https://docs.microsoft.com/en-us/learn/certifications/azure-database-administrator-associate/) [<img src="./badges/CERT-Associate-Data-Analyst-600x600.png" height="150">](https://docs.microsoft.com/en-us/learn/certifications/data-analyst-associate/) [<img src="./badges/microsoft-certified-azure-ai-engineer-associate.png" height="150">](https://docs.microsoft.com/en-us/learn/certifications/azure-ai-engineer/) 
 [<img src="./badges/azure-ai-fundamentals-600x600.png" height="150">](https://docs.microsoft.com/en-us/learn/certifications/azure-ai-fundamentals/) 
 [<img src="./badges/microsoft-certified-devops-engineer-expert.png" height="150">](https://docs.microsoft.com/en-us/learn/certifications/devops-engineer/) [<img src="./badges/microsoft-certified-azure-solutions-architect-expert.png" height="150">](https://docs.microsoft.com/en-us/learn/certifications/azure-solutions-architect) [<img src="./badges/microsoft-certified-azure-developer-associate.png" height="150">](https://docs.microsoft.com/en-us/learn/certifications/azure-developer/) <img src="./badges/mcsa-cloud-platform-certified-2016.png" height="150">
 
