@@ -38,7 +38,7 @@ was a/an
 
 ## Microsoft Certified, Exams
 
-### Microsoft Certified - Expert, Associate
+### Microsoft Certified - Expert, Associate, Professional
 [<img src="./badges/azure-database-administrator-associate-600x600.png" height="150">](https://docs.microsoft.com/en-us/learn/certifications/azure-database-administrator-associate/) [<img src="./badges/CERT-Associate-Data-Analyst-600x600.png" height="150">](https://docs.microsoft.com/en-us/learn/certifications/data-analyst-associate/) [<img src="./badges/microsoft-certified-azure-ai-engineer-associate.png" height="150">](https://docs.microsoft.com/en-us/learn/certifications/azure-ai-engineer/) 
 [<img src="./badges/azure-ai-fundamentals-600x600.png" height="150">](https://docs.microsoft.com/en-us/learn/certifications/azure-ai-fundamentals/) 
 [<img src="./badges/microsoft-certified-devops-engineer-expert.png" height="150">](https://docs.microsoft.com/en-us/learn/certifications/devops-engineer/) [<img src="./badges/microsoft-certified-azure-solutions-architect-expert.png" height="150">](https://docs.microsoft.com/en-us/learn/certifications/azure-solutions-architect) [<img src="./badges/microsoft-certified-azure-developer-associate.png" height="150">](https://docs.microsoft.com/en-us/learn/certifications/azure-developer/) <img src="./badges/mcsa-cloud-platform-certified-2016.png" height="150">
@@ -48,6 +48,9 @@ was a/an
 
 ### Microsoft Cetification Exams
 [<img src="./badges/dp-200-implementing-an-azure-data-solution.1.png" height="150">](https://docs.microsoft.com/en-us/learn/certifications/exams/dp-200) [<img src="./badges/az-400-designing-and-implementing-microsoft-devops-solutions.png" height="150">](https://docs.microsoft.com/en-us/learn/certifications/exams/az-400) [<img src="./badges/az-300-microsoft-azure-architect-technologies.png" height="150">](https://docs.microsoft.com/en-us/learn/certifications/exams/az-300) [<img src="./badges/az-301-microsoft-azure-architect-design.png" height="150">](https://docs.microsoft.com/en-us/learn/certifications/exams/az-301) <img src="./badges/exam-533-implementing-microsoft-azure-infrastructure-solutions.png" height="150"> <img src="./badges/exam-532-developing-microsoft-azure-solutions.png" height="150"> 
+
+### Microsoft Technology Associate (MTA) certification
+[<img src="./badges/MTA-Introduction_to_Programming_Using_Python-600x600.png" height="150">](https://docs.microsoft.com/en-us/learn/certifications/mta-introduction-to-programming-using-python/)
 
 ## Personal project
 [Daily Newsletter :newspaper: (Azure/Data/Development)](http://aznews.azurewebsites.net/)
