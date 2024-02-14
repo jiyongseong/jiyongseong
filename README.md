@@ -16,6 +16,7 @@ was a/an
 - Independent Developer / Developer
 
 <img src=".\badges\PlatinumClub-logo.png" />
+<img src=".\badges\senior-technical-leadership-program-alumni.png" height="200">
 
 ## about me :point_down:
 [![Linkedin Badge](https://img.shields.io/badge/jyseong-linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ji-yong-seong-628a2952/)
