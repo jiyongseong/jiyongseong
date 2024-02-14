@@ -61,4 +61,4 @@ was a/an
 <img src="./badges/red-hat-portfolio-foundational.1.png" height="150">
 
 ## Personal project
-[Daily Newsletter :newspaper: (Azure/Data/Development)](http://aznews.azurewebsites.net/)
+~~[Daily Newsletter :newspaper: (Azure/Data/Development)](http://aznews.azurewebsites.net/)~~
