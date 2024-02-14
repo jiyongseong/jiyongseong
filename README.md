@@ -54,5 +54,8 @@ was a/an
 ### Microsoft Technology Associate (MTA) certification
 [<img src="./badges/MTA-Introduction_to_Programming_Using_Python-600x600.png" height="150">](https://docs.microsoft.com/en-us/learn/certifications/mta-introduction-to-programming-using-python/)
 
+### Red Hat
+<img src="./badges/red-hat-portfolio-foundational.1.png" height="150">
+
 ## Personal project
 [Daily Newsletter :newspaper: (Azure/Data/Development)](http://aznews.azurewebsites.net/)
