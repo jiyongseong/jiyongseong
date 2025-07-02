@@ -1,9 +1,11 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiyongseong%2Fhit-counter&count_bg=%235676FF&title_bg=%23555555&icon=microsoftazure.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
 # Ji Yong Seong :man:
-Working as a Senior Technical Specialist (Infrastructure) at [Microsoft](https://github.com/microsoft) :kr: 
+Working as a Senior Solution engineer (Data) at [Microsoft](https://github.com/microsoft) :kr: 
 
-was a/an 
+was a/an
+- Senior Technical Specialist 
+    - Infrastructure
 - Senior Cloud Solution Architect
     - Core
     - App Innovation
@@ -11,7 +13,9 @@ was a/an
     - Data
 - Senior Technical Evangelist
 - Senior Premier Field Engineer
-    - Azure / SQL Server / Windows Server
+    - Azure
+    - SQL Server 
+    - Windows Server
 - Microsoft Consulting Service - Delivery consultant
 - Independent Developer / Developer
 
