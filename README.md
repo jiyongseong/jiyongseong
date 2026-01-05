@@ -25,8 +25,6 @@ was a/an
 
 [![Facebook Badge](https://img.shields.io/badge/jyseong-Facebook-blue?style=for-the-badge&logo=Facebook)](https://www.facebook.com/jiyongseongmsft/)
 
-![Ji Yong's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jiyongseong&show_icons=true)
-
 <!-- ## play with :hammer:
 
 ### :computer:
