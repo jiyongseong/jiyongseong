@@ -1,5 +1,5 @@
 # Ji Yong Seong :man:
-Working as a Senior Solution Engineer (Data) at [Microsoft](https://github.com/microsoft) :kr: 
+Working as a Senior Solution Engineer (Data?) at [Microsoft](https://github.com/microsoft) :kr: 
 
 was a/an
 - Senior Technical Specialist 
